@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@127.0.0.1/codersdb",
+    "production_uri": "mysql+pymysql://root:@127.0.0.1/codersdb",
+    "facebook_url": "https://www.facebook.com/abdullah.toqeer",
+    "twitter_url": "https://www.twitter.com",
+    "github_url": "https://www.github.com/abdullahtoqeer523",
+    "blog_name": "Codders Blog",
+    "gmail-user": "androidskyvega523@gmail.com",
+    "gmail-password": "playboy789*",
+    "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
+    "no_of_post": 2,
+    "login_image":"login.svg",
+    "admin_user":"abdullah",
+    "admin_password": "abc",
+    "upload_location": "E:\\Abdullah Data\\pythonProject\\static"
+  }
+
+}
